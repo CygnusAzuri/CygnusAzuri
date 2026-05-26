@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sakshi Jha 👋
 
-<!--
-**CygnusAzuri/CygnusAzuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## B.Tech CSE Student at IGDTUW
 
-Here are some ideas to get you started:
+### Interests
+- MERN Stack
+- AI/ML
+- Open Source
+- Prompt Engineering
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- DSA
+- Web Development
+- GitHub & Open Source
+
+### Projects
+- Online Movie Ticket Booking System
+- Online Gym Management System
+
+### Connect With Me
+- GitHub: https://github.com/CygnusAzuri
